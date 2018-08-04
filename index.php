@@ -1,3 +1,3 @@
 <?php
-olá mundo!
+echo olá mundo!;
 ?>
